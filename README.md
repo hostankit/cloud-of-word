@@ -1,6 +1,10 @@
 # cloud-of-word
 Cloud of word takes word as input and convert words into cloud of words
 
+#
+![download](https://user-images.githubusercontent.com/29058050/132755758-2299409c-b4ed-4115-94fd-e1f7232d4065.png)
+#
+
 Input:
 While the London theaters were closed, some actors tried to make a living by touring outside the capital. Shakespeare turned from the business of scriptwriting to the pursuit of art and patronage; unable to pursue his career in the theatrical marketplace, he adopted a more conventional course. Shakespeare’s first publication, Venus and Adonis (1593), was dedicated to the 18-year-old Henry Wriothesley, third Earl of Southampton. The dedication reveals a frank appeal for patronage, couched in the normal terms of such requests. Shakespeare received the Earl’s patronage and went on to dedicate his next dramatic poem, Lucrece, to the young lord as well. Venus and Adonis was printed by Richard Field, a professionally accomplished printer who lived in Stratford. Shakespeare’s choice of printer indicates an ambition to associate himself with unambiguously high-art productions, as does the quotation from Ovid’s Amores on the title page: “Vilia miretur vulgus: mihi flavus Apollo / Pocula Castalia plena ministret acqua” (Let worthless stuff excite the admiration of the crowd: as for me, let golden Apollo ply me with full cups from the Castalian spring, that is, the spring of the Muses). Such lofty repudiation of the vulgar was calculated to appeal to the teenage Southampton. It also appealed to a sizable slice of the reading public. In the midst of horror, disease, and death, Shakespeare was offering access to a golden world, showing the delights of applying learning for pleasure rather than pointing out the obvious morals to be drawn from classical authors when faced with awful catastrophe.
 
@@ -21,5 +25,6 @@ The historically validated interpretation—for Shakespeare’s readers, descend
 In 1598 or 1599 the printer William Jaggard brought out an anthology of 20 miscellaneous poems, which he eventually attributed to Shakespeare, though the authorship of all 20 is still disputed. At least five are demonstrably Shakespearean. Poem 1 is a version of Sonnet 138 (“When My Love Swears that She Is Made of Truth”), poem 2 of Sonnet 144 (“Two Loves I Have, of Comfort and Despair”), and the rest are sonnets that appear in act 4 of Love’s Labor’s Lost (1598). Investigation of Jaggard’s volume, called The Passionate Pilgrime, has yielded and will continue to yield insight into such matters as the relationship of manuscript to print culture in the 1590s, the changing nature of the literary profession, and the evolving status of the author. It may also, as with The Phoenix and Turtle (1601), lead to increased knowledge of the chronology and circumstances of Shakespeare’s literary career, as well as affording some glimpses of his revisions of his texts.
 
 Output:
+
 ![download](https://user-images.githubusercontent.com/29058050/132755758-2299409c-b4ed-4115-94fd-e1f7232d4065.png)
 
